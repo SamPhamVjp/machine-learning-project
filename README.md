@@ -93,3 +93,9 @@ Khuyến nghị sử dụng **Python 3.9+**
 
 ```bash
 pip install -r requirements.txt
+
+### 6.2 Chạy ứng dụng Streamlit
+Sau khi đã cài đặt đầy đủ các thư viện, bạn có thể khởi chạy giao diện demo bằng lệnh sau:
+
+```bash
+streamlit run app.py
